@@ -176,6 +176,14 @@ const Hero = () => {
 const Experience = () => {
   const experiences = [
     {
+      company: "JITS Innovation Labs Company Limited",
+      role: "Data Engineer",
+      period: "Feb 2026 - Present",
+      bullets: [
+        "Do not have any additional experience to show at the moment."
+      ]
+    },
+    {
       company: "Solvitech Corporation",
       role: "ETL & Infrastructure Engineer",
       period: "Aug 2025 – Present",
